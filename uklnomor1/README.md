@@ -4,9 +4,9 @@
 Program ini digunakan oleh sebuah perusahaan ekspedisi untuk menghitung total biaya pengiriman paket berdasarkan **berat (kg)**, **jarak tempuh (km)**, dan **volume barang (cm³)**.
 
 ### Ketentuan Biaya
-- Jika jarak **≤ 10 km**, maka biaya pengiriman = 4.250 per kg  
-- Jika jarak **> 10 km**, maka biaya pengiriman = 6.000 per kg  
-- Jika volume **> 100 cm**, maka dikenakan biaya tambahan sebesar 50.000
+- Jika jarak ≤ 10 km, maka biaya pengiriman = 4.250 per kg  
+- Jika jarak > 10 km, maka biaya pengiriman = 6.000 per kg  
+- Jika volume > 100 cm, maka dikenakan biaya tambahan sebesar 50.000
 
 ## Cara Kerja Program
 1. Pengguna memasukkan berat paket (dalam kilogram)
